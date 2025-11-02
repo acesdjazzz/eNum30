@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="CommandGroup.РегистрыСведений" id="d8055c2b-7f11-4d42-bb9e-d3714aec40b8" configVersion="42d23bff91067656d8ffb916406878524136f6c5"/>
+		<Metadata name="CommonCommand.ун30_ОткрытьВключение" id="60fbe9b0-81c1-4df6-b547-3e610c2a06cb" configVersion="0a766b8c777b23ca2e4bc518a98f276650c53c69"/>
+		<Metadata name="CommonCommand.ун30_ОткрытьВключение.CommandModule" id="60fbe9b0-81c1-4df6-b547-3e610c2a06cb.2" configVersion="33ccf21c6692c11165fde757b59e17588cf3550c"/>
+		<Metadata name="CommonForm.ун30_ФормаВключения" id="fa0e48c6-767f-42f4-958c-1c5065b18176" configVersion="ebd1468859483e19b23f1b2da712c0ead083165f"/>
+		<Metadata name="CommonForm.ун30_ФормаВключения.Form" id="fa0e48c6-767f-42f4-958c-1c5065b18176.0" configVersion="cb24b82b8dd0f57020a7a95584e7991a80b20934"/>
+		<Metadata name="CommonModule.ун30_ОбработчикиПодписокНаСобытия" id="f938aabe-f8eb-4e59-96db-65fe268cec18" configVersion="4d977dca17500698a288889cb43b6cfa14372fa0"/>
+		<Metadata name="CommonModule.ун30_ОбработчикиПодписокНаСобытия.Module" id="f938aabe-f8eb-4e59-96db-65fe268cec18.0" configVersion="ceca54b661890a0199dfdd28101a88c2f97e11dc"/>
+		<Metadata name="CommonModule.ун30_Сервер" id="8d28b5a7-d2e2-4bbd-9d84-42a1c6160894" configVersion="ff8a14532e37de28e4143c848cd91f535ce709c0"/>
+		<Metadata name="CommonModule.ун30_Сервер.Module" id="8d28b5a7-d2e2-4bbd-9d84-42a1c6160894.0" configVersion="a80f9c5642c9a63e17deca38b0a281eb30d523e9"/>
+		<Metadata name="Configuration.УниверсальныйНумератор30" id="7d8b97c9-0fd7-47ee-9387-5d2bbd473ed2" configVersion="5fb26aa45f76c26ce0f7f6d7804b93871cb5a0a2"/>
+		<Metadata name="Constant.ун30_Включить" id="876b4572-ed12-458a-b0a1-8d1374db71e2" configVersion="131fd80aebc108bd9989922689d6a9554f0752ed"/>
+		<Metadata name="DataProcessor.ун30_ПанельУправления" id="cabee93f-5013-4eaa-9a38-a33afff40045" configVersion="8b42e2165442d3ef4c9c118cf324eac35904c507">
+			<Metadata name="DataProcessor.ун30_ПанельУправления.TabularSection.ДокументыНумерации.Attribute.ВариантНумерации" id="41247b03-7fb3-4f0a-b9c1-041297a2e621"/>
+			<Metadata name="DataProcessor.ун30_ПанельУправления.TabularSection.ДокументыНумерации.Attribute.ПредставлениеДокумента" id="56f86d1b-28a7-4d69-b684-3684a7646c5e"/>
+			<Metadata name="DataProcessor.ун30_ПанельУправления.TabularSection.ДокументыНумерации.Attribute.ИмяДокумента" id="ae70f632-8466-40fa-bef5-2c00d79cd9ac"/>
+			<Metadata name="DataProcessor.ун30_ПанельУправления.TabularSection.ДокументыНумерации" id="ca70b65b-4f66-4f8e-949e-0caf7dc4083f"/>
+			<Metadata name="DataProcessor.ун30_ПанельУправления.TabularSection.ДокументыНумерации.Attribute.Включить" id="fc5b060e-bcce-41c2-a551-6982e06cca7c"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ун30_ПанельУправления.Form.Форма" id="5aaa6a54-eeba-4378-a794-023144b5ced1" configVersion="6ddb1ecd6b5c47fccd6b0fd2936e70d8d569b3c0"/>
+		<Metadata name="DataProcessor.ун30_ПанельУправления.Form.Форма.Form" id="5aaa6a54-eeba-4378-a794-023144b5ced1.0" configVersion="c25cf4e2e8927648936cfc3ee94d5e791735091d"/>
+		<Metadata name="DataProcessor.ун30_ПанельУправления.Form.ФормаНастроекДокумента" id="6554e9b8-d7fa-42e8-9315-a757b7e85dc5" configVersion="9d1126970b85c9b8459ed1b9e3adfd294b993d42"/>
+		<Metadata name="DataProcessor.ун30_ПанельУправления.Form.ФормаНастроекДокумента.Form" id="6554e9b8-d7fa-42e8-9315-a757b7e85dc5.0" configVersion="999f3be6a7a7a494f2c5a298c1ba3fdbfe05ac87"/>
+		<Metadata name="DataProcessor.ун30_ПанельУправления.ObjectModule" id="cabee93f-5013-4eaa-9a38-a33afff40045.0" configVersion="90150c4083d99ed765fa3d48e93cb07d6dc9e350"/>
+		<Metadata name="Enum.ун30_НастройкиНумерации" id="a3d69bd5-822c-453a-a005-3898a219b82f" configVersion="4fe3d7803a11affc86a79fe821aadef26d44930f">
+			<Metadata name="Enum.ун30_НастройкиНумерации.EnumValue.ПериодНумерации" id="75978ad6-89b6-4336-8ba4-346e4f43a483"/>
+			<Metadata name="Enum.ун30_НастройкиНумерации.EnumValue.ИмяРеквизита" id="7e763390-0186-4f80-9a8a-8c71ee1c895f"/>
+			<Metadata name="Enum.ун30_НастройкиНумерации.EnumValue.ФорматДаты" id="e905fa29-4c7f-4522-9de8-969e512989d3"/>
+		</Metadata>
+		<Metadata name="EventSubscription.ун30_ПередЗаписьюДокумента" id="006423fc-3f09-465a-b9bb-fdc27e150ebb" configVersion="3ad73a4a4dd20c5528fd4ee1e8f82e9fc27b1f62"/>
+		<Metadata name="InformationRegister.ун30_ОбъектыНумерации" id="877cc940-0529-44d4-8304-aee31e1d9db2" configVersion="3ce783874edbea18945c990618cf29ee5d24d0e0">
+			<Metadata name="InformationRegister.ун30_ОбъектыНумерации.Resource.Перезаписывать" id="0b5b3af3-1070-4f6c-9361-4c56bc7cd722"/>
+			<Metadata name="InformationRegister.ун30_ОбъектыНумерации.Attribute.ПредставлениеДокумента" id="171ef23f-9f37-4c9f-92f2-b23279291060"/>
+			<Metadata name="InformationRegister.ун30_ОбъектыНумерации.Dimension.ИмяДокумента" id="3bfef520-ec3a-4932-8f46-42495cf56db7"/>
+			<Metadata name="InformationRegister.ун30_ОбъектыНумерации.Resource.ВариантНумерации" id="4cd14b93-ec45-4998-9a1f-f4c1c860d1b8"/>
+			<Metadata name="InformationRegister.ун30_ОбъектыНумерации.Resource.Включить" id="696fc382-aee6-4e03-a9d5-d6a35c4b2c3b"/>
+			<Metadata name="InformationRegister.ун30_ОбъектыНумерации.Resource.Разделитель" id="ebdf1f19-46e8-40dd-92fe-b733da91b0dc"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ун30_ОбъектыНумерации.ManagerModule" id="877cc940-0529-44d4-8304-aee31e1d9db2.2" configVersion="cc17740b1435144911b50f8c61d218f698cba529"/>
+		<Metadata name="InformationRegister.ун30_ПравилаНумерации" id="46f50f85-2b54-4423-8f2a-d4125cf05bb9" configVersion="97833c4a73eac0b42bbc45397bef742e2faa6131">
+			<Metadata name="InformationRegister.ун30_ПравилаНумерации.Dimension.ИмяДокумента" id="56361873-4c60-4d6b-a078-50a2e993fc1a"/>
+			<Metadata name="InformationRegister.ун30_ПравилаНумерации.Dimension.Настройка" id="ea9dbd4d-4355-4ba7-84fe-16dfc59979c7"/>
+			<Metadata name="InformationRegister.ун30_ПравилаНумерации.Resource.Значение" id="f224fd47-5e74-4080-9123-c59bb6391215"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ун30_ПравилаНумерации.ManagerModule" id="46f50f85-2b54-4423-8f2a-d4125cf05bb9.2" configVersion="08c3fd9edc172687af4d67eabe2ceac915f9d6ba"/>
+		<Metadata name="InformationRegister.ун30_ПрефиксыРеквизитов" id="4bf6cc9b-5288-44f3-b248-6ac79fbc004f" configVersion="79448de8f0c85423c4a75e085457cd83c2c66088">
+			<Metadata name="InformationRegister.ун30_ПрефиксыРеквизитов.Dimension.ЗначениеРеквизита" id="1a8a6b90-5c4b-4774-9018-1e2172835f14"/>
+			<Metadata name="InformationRegister.ун30_ПрефиксыРеквизитов.Dimension.ИмяРеквизита" id="50754124-2b28-43e6-b550-b57d1ea71070"/>
+			<Metadata name="InformationRegister.ун30_ПрефиксыРеквизитов.Dimension.ИмяДокумента" id="797be992-0a92-4855-af5b-a6dad2cb309d"/>
+			<Metadata name="InformationRegister.ун30_ПрефиксыРеквизитов.Resource.Префикс" id="a569ef4c-5bf9-47dd-a5d4-1b3f47c40b7b"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ун30_ПрефиксыРеквизитов.ManagerModule" id="4bf6cc9b-5288-44f3-b248-6ac79fbc004f.2" configVersion="6d24f6bbbd1c923300b813c266c78f89b608380b"/>
+		<Metadata name="InformationRegister.ун30_ТекущиеНомераДокументов" id="4566be01-d7cc-447b-af48-45a7c0d368db" configVersion="1854d3908f37497a46c3e0838600babd43fde9b8">
+			<Metadata name="InformationRegister.ун30_ТекущиеНомераДокументов.Resource.Номер" id="4f862c22-3eb4-4c1c-bfbf-a9d00b761d3f"/>
+			<Metadata name="InformationRegister.ун30_ТекущиеНомераДокументов.Resource.Счетчик" id="5536b269-abc7-4eb1-8ccc-21efd5191e39"/>
+			<Metadata name="InformationRegister.ун30_ТекущиеНомераДокументов.Dimension.ИмяДокумента" id="e1089176-a635-4cd6-82eb-447c29f20a51"/>
+			<Metadata name="InformationRegister.ун30_ТекущиеНомераДокументов.Resource.ПорядковыйНомер" id="e22d2037-07ef-45b9-8059-3cf4c8844e80"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ун30_ТекущиеНомераДокументов.ManagerModule" id="4566be01-d7cc-447b-af48-45a7c0d368db.2" configVersion="2e503be9c35b80f98bdae7160d49a116718aa4a3"/>
+		<Metadata name="Language.Русский" id="6fd14b0e-4779-4dc1-88a9-a96dea94c805" configVersion="2e44e9b5c1014cd1bf06a766b7b2b4d31d56caf6"/>
+		<Metadata name="Subsystem.УН30" id="89c09efd-fb16-4ce8-b540-50d4e0aad6c7" configVersion="2745c468ca0622f609247d96fbec421f6f7328b9"/>
+		<Metadata name="Subsystem.УН30.CommandInterface" id="89c09efd-fb16-4ce8-b540-50d4e0aad6c7.1" configVersion="0b54e59a28841ce0d99479f5d24dbea459e85487"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
